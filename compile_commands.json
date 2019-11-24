@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "E:/work/SourcetrailSample",
+    "command": "clang-tool -fms-extensions -fms-compatibility -fms-compatibility-version=19  -isystem \"C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/include\"  -isystem \"C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/atlmfc/include\"  -isystem \"C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Auxiliary/VS/include\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/ucrt\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/um\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/winrt\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/cppwinrt\"  -isystem \"E:/work/SourcetrailSample/SourcetrailSample/Include/um\"  -D _DEBUG  -D _MT  -D _DLL  -D _MBCS -std=c++17  \"E:/work/SourcetrailSample/SourcetrailSample/main.cpp\"",
+    "file": "E:/work/SourcetrailSample/SourcetrailSample/main.cpp"
+  },
+  {
+    "directory": "E:/work/SourcetrailSample",
+    "command": "clang-tool -fms-extensions -fms-compatibility -fms-compatibility-version=19  -isystem \"C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/include\"  -isystem \"C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/atlmfc/include\"  -isystem \"C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Auxiliary/VS/include\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/ucrt\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/um\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/winrt\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/cppwinrt\"  -isystem \"E:/work/SourcetrailSample/SourcetrailSample/Include/um\"  -D _DEBUG  -D _MT  -D _DLL  -D _MBCS -std=c++17  \"E:/work/SourcetrailSample/SourcetrailSample/MainProcess.cpp\"",
+    "file": "E:/work/SourcetrailSample/SourcetrailSample/MainProcess.cpp"
+  }
+]
